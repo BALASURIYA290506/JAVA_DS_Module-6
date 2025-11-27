@@ -15,8 +15,8 @@ To write a C program to implement Tower of Hanoi
 ```
 /*
 Program to to count the number of digits in an integer
-Developed by: REVATHI K
-RegisterNumber: 212223040169
+Developed by: M BALASURIYA
+RegisterNumber: 212224240021
 import java.util.Scanner;
 
 public class CountDigits {
